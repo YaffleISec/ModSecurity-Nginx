@@ -1,7 +1,7 @@
 # ModSecurity-Nginx
 Kết hợp Nginx và ModSecurity trong việc bảo vệ ứng dụng web
 
-Các nội dung cấu hình trong phần này được chúng tôi đề cập tại bài viết [ModSecurit+Nginx](http://yis.vn/modsecurity-nginx.html)
+Các nội dung cấu hình trong phần này được chúng tôi đề cập tại bài viết [ModSecurity + Nginx](http://yis.vn/modsecurity-nginx.html)
 
 **Mô tả các tập tin cấu hình**
 - nginx.conf: tập tin cấu hình chính của Nginx
